@@ -197,7 +197,7 @@ export default {
             }"
             style="color: #409EFF"
           > -->
-          <span style="color: #409EFF">{{ scope.row.name }}</span>
+          <span>{{ scope.row.name }}</span>
           <!-- </router-link> -->
           <!-- <span>{{ scope.row.name }}</span> -->
         </template>
